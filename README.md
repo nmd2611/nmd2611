@@ -1,9 +1,10 @@
-### Hi there 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"  />
+![Nimish Dadlani](https://komarev.com/ghpvc/?username=nmd2611&color=brightgreen)
 
-<!--
-**nmd2611/nmd2611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center"> Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"  /> , I'm Nimish. </h1>
+  
+
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,6 +13,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
+
+<div align="center">
+
+ ![Nimish's Github Stats](https://github-readme-stats.vercel.app/api?username=nmd2611&theme=react)
+
+</div>
 
