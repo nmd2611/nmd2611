@@ -16,6 +16,17 @@
 - ⚡ Fun fact: ... -->
 
 
+#
+
+<div align="center">
+  
+<h2>Technologies I'm familiar with</h2>
+
+![React](https://img.shields.io/static/v1?logo=react&label=%20&message=React&style=for-the-badge&logoColor=%2361DAFB&labelColor=black&color=black)
+
+</div>
+
+
 <div align="center">
 
  ![Nimish's Github Stats](https://github-readme-stats.vercel.app/api?username=nmd2611&theme=react)
