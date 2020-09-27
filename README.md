@@ -24,9 +24,20 @@
 
 ![React](https://img.shields.io/static/v1?logo=react&label=%20&message=React&style=for-the-badge&logoColor=%2361DAFB&labelColor=black&color=black)
 ![Redux](https://img.shields.io/static/v1?logo=redux&label=%20&message=Redux&style=for-the-badge&logoColor=%23764ABC&labelColor=black&color=black)
+![NodeJs](https://img.shields.io/static/v1?logo=node.js&label=%20&message=NodeJs&style=for-the-badge&logoColor=%23339933&labelColor=black&color=black)
+
+<!-- ![Express](https://img.shields.io/static/v1?logo=c&label=%20&message=Cpp&style=for-the-badge&logoColor=%2300599C&labelColor=black&color=black) -->
+
+![MongoDB](https://img.shields.io/static/v1?logo=mongodb&label=%20&message=MongoDB&style=for-the-badge&logoColor=%2347A248&labelColor=black&color=black)
+![HTML](https://img.shields.io/static/v1?logo=html5&label=%20&message=HTML&style=for-the-badge&logoColor=%23E34F26&labelColor=black&color=black)
+![CSS](https://img.shields.io/static/v1?logo=css3&label=%20&message=CSS&style=for-the-badge&logoColor=%231572B6&labelColor=black&color=black)
+![JavaScript](https://img.shields.io/static/v1?logo=javascript&label=%20&message=JavaScript&style=for-the-badge&logoColor=%23F7DF1E&labelColor=black&color=black)
+
+![C++](https://img.shields.io/static/v1?logo=c&label=%20&message=Cpp&style=for-the-badge&logoColor=%2300599C&labelColor=black&color=black)
 
 </div>
 
+#
 
 <div align="center">
 
