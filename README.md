@@ -22,6 +22,8 @@
   
 <h2>Technologies I'm familiar with</h2>
 
+<hr>
+
 ![React](https://img.shields.io/static/v1?logo=react&label=%20&message=React&style=for-the-badge&logoColor=%2361DAFB&labelColor=black&color=black)
 ![Redux](https://img.shields.io/static/v1?logo=redux&label=%20&message=Redux&style=for-the-badge&logoColor=%23764ABC&labelColor=black&color=black)
 ![NodeJs](https://img.shields.io/static/v1?logo=node.js&label=%20&message=NodeJs&style=for-the-badge&logoColor=%23339933&labelColor=black&color=black)
