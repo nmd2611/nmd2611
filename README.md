@@ -16,13 +16,7 @@
 - ⚡ Fun fact: ... -->
 
 
-#
-
 <div align="center">
-  
-  <a href="https://in.linkedin.com/in/nimish-dadlani-31a0ab179" target="_blank" title="">
-  <img align="center" alt="Nimish Dadlani" src="https://img.shields.io/static/v1?logo=linkedin&label=%20&message=LinkedIn&style=for-the-badge&logoColor=white&labelColor=%230077B5&color=%230077B5" />
-</a>
   
   
 <h2>Technologies I'm familiar with</h2>
