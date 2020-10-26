@@ -22,7 +22,7 @@
   </a>
   
    <a href="mailto:nmd2611@gmail.com" target="_blank" title="Nimish Dadlani">
-    <img align="center" alt="Nimish Dadlani" src="https://img.shields.io/static/v1?logo=gmail&label=%20&message=Nimish%20Dadlani&style=for-the-badge&logoColor=white&labelColor=%23D14836&color=%23D14836" />
+    <img align="center" alt="Nimish Dadlani" src="https://img.shields.io/static/v1?logo=gmail&label=%20&message=Email%20Me&style=for-the-badge&logoColor=white&labelColor=%23D14836&color=%23D14836" />
   </a>
   
   
