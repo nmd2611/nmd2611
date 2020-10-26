@@ -20,9 +20,13 @@
 
 <div align="center">
   
+  <a href="https://in.linkedin.com/in/nimish-dadlani-31a0ab179" target="_blank" title="">
+  <img align="center" alt="Nimish Dadlani" src="https://img.shields.io/static/v1?logo=linkedin&label=%20&message=LinkedIn&style=for-the-badge&logoColor=white&labelColor=%230077B5&color=%230077B5" />
+</a>
+  
+  
 <h2>Technologies I'm familiar with</h2>
 
-<hr>
 
 ![React](https://img.shields.io/static/v1?logo=react&label=%20&message=React&style=for-the-badge&logoColor=%2361DAFB&labelColor=black&color=black)
 ![Redux](https://img.shields.io/static/v1?logo=redux&label=%20&message=Redux&style=for-the-badge&logoColor=%23764ABC&labelColor=black&color=black)
