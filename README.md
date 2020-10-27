@@ -17,7 +17,7 @@
 
 <div align="center">
   
-  <a href="https://in.linkedin.com/in/nimish-dadlani-31a0ab179" target="_blank" title="Nimish Dadlani">
+  <a href="https://in.linkedin.com/in/nimishdadlani" target="_blank" title="Nimish Dadlani">
     <img align="center" alt="Nimish Dadlani" src="https://img.shields.io/static/v1?logo=linkedin&label=%20&message=Nimish%20Dadlani&style=for-the-badge&logoColor=white&labelColor=%230077B5&color=%230077B5" />
   </a>
   
