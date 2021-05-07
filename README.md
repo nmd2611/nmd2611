@@ -33,7 +33,7 @@
 <div align="center">
   
   
-<h2>Technologies I'm familiar with</h2>
+<h2>My software skills currently cover:</h2>
 
 
 ![React](https://img.shields.io/static/v1?logo=react&label=%20&message=React&style=for-the-badge&logoColor=%2361DAFB&labelColor=black&color=black)
@@ -46,8 +46,11 @@
 ![HTML](https://img.shields.io/static/v1?logo=html5&label=%20&message=HTML&style=for-the-badge&logoColor=%23E34F26&labelColor=black&color=black)
 ![CSS](https://img.shields.io/static/v1?logo=css3&label=%20&message=CSS&style=for-the-badge&logoColor=%231572B6&labelColor=black&color=black)
 ![JavaScript](https://img.shields.io/static/v1?logo=javascript&label=%20&message=JavaScript&style=for-the-badge&logoColor=%23F7DF1E&labelColor=black&color=black)
+![TypeScript](https://img.shields.io/static/v1?logo=typescript&label=%20&message=TypeScript&style=for-the-badge&logoColor=%233178C6&labelColor=black&color=black)
 
-![C++](https://img.shields.io/static/v1?logo=c&label=%20&message=Cpp&style=for-the-badge&logoColor=%2300599C&labelColor=black&color=black)
+
+![C++](https://img.shields.io/static/v1?logo=c%2B%2B&label=%20&message=C%2B%2B&style=for-the-badge&logoColor=%2300599C&labelColor=black&color=black)
+
 
 </div>
 
