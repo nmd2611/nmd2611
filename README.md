@@ -17,11 +17,22 @@
 
 <div align="center">
   
-  <a href="https://in.linkedin.com/in/nimishdadlani" target="_blank" title="Nimish Dadlani">
+  
+  
+  <a href="https://drive.google.com/file/d/14oY_jdeTfyPhR9VEJoKtVv95DtpzJATk" target="_blank" title="Resume">
+    <img align="center" alt="Nimish Dadlani Resume" src="https://img.shields.io/static/v1?logo=microsoft%20word&label=%20&message=Resume&style=for-the-badge&logoColor=white&labelColor=%232B579A&color=%232B579A" />
+  </a>
+  
+  <a href="https://nimishdadlani.com" target="_blank" title="nimishdadlani.com">
+    <img align="center" alt="Portfolio Website" src="https://img.shields.io/static/v1?logo=naver&label=%20&message=nimishdadlani.com&style=for-the-badge&logoColor=white&labelColor=%23FF4470&color=%23FF4470" />
+  </a>
+  
+  
+  <a href="https://in.linkedin.com/in/nimishdadlani" target="_blank" title="LinkedIn">
     <img align="center" alt="Nimish Dadlani" src="https://img.shields.io/static/v1?logo=linkedin&label=%20&message=Nimish%20Dadlani&style=for-the-badge&logoColor=white&labelColor=%230077B5&color=%230077B5" />
   </a>
   
-   <a href="mailto:nmd2611@gmail.com" target="_blank" title="Nimish Dadlani">
+   <a href="mailto:nimishdadlani@gmail.com" target="_blank" title="nimishdadlani@gmail.com">
     <img align="center" alt="Nimish Dadlani" src="https://img.shields.io/static/v1?logo=gmail&label=%20&message=Email%20Me&style=for-the-badge&logoColor=white&labelColor=%23D14836&color=%23D14836" />
   </a>
   
