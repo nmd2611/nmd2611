@@ -3,7 +3,7 @@
 
 <h1 align="center"> Hey  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"  /> , I'm Nimish </h1>
 
-I’m Nimish Dadlani, currently in 3rd Year, B.E. Computers at PICT, Pune. I’m a Full Stack Web Development enthusiast. I’ll help you transform your designs into stunning websites. Open to collaboration and work opportunities in the field of Computer Science.
+I’m Nimish Dadlani, currently in Final Year, B.E. Computers at PICT, Pune. I’m a Full Stack Web Development enthusiast. I’ll help you transform your designs into stunning websites. I have a keen interest in developing solutions which can contribute in solving real world problems. Open to collaboration and work opportunities in the field of Computer Science.
 <br>If you have a project that needs a capable software engineer to execute, let’s connect.
 
 <hr>
