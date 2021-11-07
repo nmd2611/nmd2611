@@ -26,8 +26,7 @@ Iâ€™m Nimish Dadlani, currently in Final Year, B.E. Computers at PICT, Pune. Iâ€
     <img align="center" alt="Portfolio Website" src="https://img.shields.io/static/v1?logo=naver&label=%20&message=nimishdadlani.com&style=for-the-badge&logoColor=white&labelColor=%23FF4470&color=%23FF4470" />
   </a>
   
-  
-  <a href="https://in.linkedin.com/in/nimishdadlani" target="_blank" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/nimishdadlani" target="_blank" title="LinkedIn">
     <img align="center" alt="Nimish Dadlani" src="https://img.shields.io/static/v1?logo=linkedin&label=%20&message=Nimish%20Dadlani&style=for-the-badge&logoColor=white&labelColor=%230077B5&color=%230077B5" />
   </a>
   
